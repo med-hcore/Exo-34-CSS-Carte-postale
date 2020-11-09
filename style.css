@@ -1,0 +1,126 @@
+
+
+
+
+
+
+
+#entete {
+    display: block;
+    margin-top: 150px;
+    margin-left: 20px;
+    font-size: 20px;
+
+
+
+}
+
+#conclusion {
+    display: block;
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+#bordure {
+    border: solid;
+    height: 400px;
+    width: 1px;
+    position: fixed;
+    left: 400px;
+    bottom: 400px;
+
+}
+
+#photo {
+    border: solid;
+    height: 130px;
+    width: 100px;
+    position: fixed;
+    left: 750px;
+    bottom: 650px;
+
+}
+#ligne1 {
+    border: solid;
+    width: 450px;
+    position: fixed;
+    left: 425px;
+    bottom: 550px;
+}
+
+#ligne2 {
+    border: solid;
+    width: 450px;
+    position: fixed;
+    left: 425px;
+    bottom: 500px;
+
+}
+
+#ligne3 {
+    border: solid;
+    width: 450px;
+    position: fixed;
+    left: 425px;
+    bottom: 450px;
+}
+
+#ligne4 {
+    border: solid;
+    width: 300px;
+    position: fixed;
+    left: 575px;
+    bottom: 400px;
+}
+
+#carre1 {
+    border: solid;
+    height: 25px;
+    width: 15px;
+    position: fixed;
+    left: 425px;
+    bottom: 400px;
+}
+
+#carre2 {
+    border: solid;
+    height: 25px;
+    width: 15px;
+    position: fixed;
+    left: 450px;
+    bottom: 400px;
+}
+
+#carre3 {
+    border: solid;
+    height: 25px;
+    width: 15px;
+    position: fixed;
+    left: 475px;
+    bottom: 400px;
+
+}
+
+#carre4 {
+    border: solid;
+    height: 25px;
+    width: 15px;
+    position: fixed;
+    left: 500px;
+    bottom: 400px;
+
+}
+
+#carre5 {
+    border: solid;
+    height: 25px;
+    width: 15px;
+    position: fixed;
+    left: 525px;
+    bottom: 400px;
+
+}
+
+
+
+
